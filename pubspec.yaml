@@ -1,0 +1,12 @@
+name: XOXGame
+description: A Simple XOX Game By Fırat Yalçın
+version: 1.0.0
+homepage: https://firatyalcin.com.tr
+author: FIRAT <info@firatyalcin.com.tr>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dev_dependencies:
+  build_runner: ^1.1.2
+  build_web_compilers: ^1.0.0
